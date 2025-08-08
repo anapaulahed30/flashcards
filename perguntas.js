@@ -1,67 +1,68 @@
 criaCartao(
-    'Programação',
+    'Veículos',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
+    'Artistas',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
+    'Esportes',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Biologia',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
 criaCartao(
-    'Programação',
+    'Veículos',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
+    'Artistas',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
+    'Esportes',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 criaCartao(
-    'Programação',
+    'Biologia',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
+    'Veículos',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
+    'Artistas',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Esportes',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
-)criaCartao(
-    'Programação',
+)
+    criaCartao(
+    'Biologia',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
