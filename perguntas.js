@@ -1,91 +1,91 @@
 criaCartao(
     'Veículos',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual é a função do catalisador em um automóvel?',
+    'Reduz gases poluentes do escapamento'
 )
 
 criaCartao(
     'Artistas',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quem pintou a obra "Guernica"?',
+    'Pablo Picasso'
 )
 
 criaCartao(
     'Esportes',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual país venceu a Copa do Mundo de 2018?',
+    'França'
 )
 
 criaCartao(
     'Biologia',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual é a molécula responsável por carregar o código genético?',
+    'DNA'
 )
 criaCartao(
     'Veículos',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que significa a sigla "ABS" nos sistemas de freio?',
+    'Sistema de frios antitravamento'
 )
 
 criaCartao(
     'Artistas',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual artista ficou conhecido por cortar sua própria orelha?',
+    'Vicent Van Gogh'
 )
 
 criaCartao(
     'Esportes',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Quantos jogadores há em um time de vôlei?',
+    'Seis'
 )
 criaCartao(
     'Biologia',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que são mitocôndrias e qual sua função na célula?',
+    'Organelas que produzem energia (ATP)'
 )
 
 criaCartao(
     'Veículos',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a diferença entre motor a gasolina e motor diesel?',
+    'Gasolina usa combustão por faísca e diesel por compressão'
 )
 
 criaCartao(
     'Artistas',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Que cantor brasileiro é conhecido como o "Rei" da música romântica?',
+    'Roberto Carlos'
 )
 
 criaCartao(
     'Esportes',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual é o nome da competição internacional mais importante do atletismo?',
+    'Campeonato Mundial de Atletismo'
 )
     criaCartao(
     'Biologia',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que diferencia um ser vivo autotrófico de um heterotrófico?',
+    'Autotróficos produzem seu própio alimento, heterotróficos não'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Veículos',
+    'O que caracteriza um carro elétrico?',
+    'Movido apenas por motor elétrico e baterias'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Artistas',
+    'Qual o nome verdadeiro da Lady Gaga?',
+    'Stefani Joanne Angelina Germanotta'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Esportes',
+    'Em que esporte se destacaram Michael Jordan e LeBron James?',
+    'Basquete'
+)
+criaCartao(
+    'Onde ocorre a fotossíntese nas plantas?',
     'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Nos cloroplastos )'
 )
